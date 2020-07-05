@@ -45,7 +45,9 @@ We first make a short list of the fundamental elements of a transacting environm
     1. Time
     1. Record
         1. Business Taxonomies
-            1. Accounting, balance sheets, etc. [http://xBRL.org]
+            1. Accounting, balance sheets, etc.
+                1. XBRL [http://XBRL.org]
+                1. US FASB [https://asc.fasb.org/home] with modularity, navigation, backlinks (for premium users)
             1. Customs clearances - World Customs Organization [http://www.wcoomd.org/DataModel]
             1. World Intellectual Propert Organization [https://www.wipo.int/portal/en/index.html]
         1. Akoma Ntoso
@@ -58,8 +60,12 @@ We first make a short list of the fundamental elements of a transacting environm
 1. Precedents
 
 1. Technologies
-
-
+    1. APIs
+        1. User-Managed-Access
+    1. Payments
+        1. Credit Card
+        1. Tech -  Interledger (W3C), Stripe, Venmo, Zelle, blockchains
+        1. Banks and Interbank.  [https://www.ecb.europa.eu]
 1. Efforts
     1. EU - 
         1. [https://joinup.ec.europa.eu/collection/better-legislation-smoother-implementation]
