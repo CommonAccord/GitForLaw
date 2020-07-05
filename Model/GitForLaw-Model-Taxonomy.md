@@ -47,6 +47,7 @@ We first make a short list of the fundamental elements of a transacting environm
         1. Business Taxonomies
             1. Accounting, balance sheets, etc.
                 1. XBRL [http://XBRL.org]
+                1. UN Sustainability via Standards: for instance TIR system for truck transport [http://www.unece.org/tir/welcome.html]
                 1. US FASB [https://asc.fasb.org/home] with modularity, navigation, backlinks (for premium users)
             1. Customs clearances - World Customs Organization [http://www.wcoomd.org/DataModel]
             1. World Intellectual Propert Organization [https://www.wipo.int/portal/en/index.html]
