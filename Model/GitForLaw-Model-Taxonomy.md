@@ -54,8 +54,6 @@ We first make a short list of the fundamental elements of a transacting environm
         1. Akoma Ntoso
         1. Legal citation systems
         1. Databases
-    1. Management - Workflow
-        1. Contract Management software  [http://software.iaccm.com]
         
  
 1. Precedents
@@ -67,6 +65,11 @@ We first make a short list of the fundamental elements of a transacting environm
         1. Credit Card
         1. Tech -  Interledger (W3C), Stripe, Venmo, Zelle, blockchains
         1. Banks and Interbank.  [https://www.ecb.europa.eu]
+    1. Management - Workflow
+        1. Contract Management software  [http://software.iaccm.com]
+        1. 
+
 1. Efforts
     1. EU - 
         1. [https://joinup.ec.europa.eu/collection/better-legislation-smoother-implementation]
+        1. [https://cnnumerique.fr/files/uploads/2020/2020.07.06.ra_cnnum_concurrence_web.pdf]
