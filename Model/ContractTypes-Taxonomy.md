@@ -18,6 +18,8 @@ Classification of legal documents by their attributes, limited here to "contract
 
 1.  Purpose:  General characterization of the purpose.  For instance a license, sale, loan, agency agreement.
 
+1. Asset: For those contracts that relate to an asset, an idenfication of the type of asset.  
+
 1.  Language: What language the document is in.
 
 1.  Law:  What system(s) of law the document is intended to be governed by. 
@@ -26,5 +28,5 @@ Classification of legal documents by their attributes, limited here to "contract
 
 1.  Parties:  Where the document is bound to some parties - e.g. a signed agreement or a company or administration's Terms of Use, required form or the like.
 
-1.  Maturity:  At least a rough guage of the community that supports it.  For instance, is it a draft, a proposal, used among a group, a standard?
+1.  Maturity:  At least a rough indication of the community that supports it.  For instance, it is a draft, a proposal, required by an administration or enterprise, used among a group, a formal standard.
 
