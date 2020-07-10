@@ -10,6 +10,10 @@ We start on a taxonomy of contracts by identifying a taxonomy of these circumsta
 
 Classification of legal documents by their attributes, limited here to "contracts" in the legal sense:
 
+1. The Unique Name for the form:  May be composed of the name of the publisher, the document name, and a version number or date.
+
+1. Location:  A URL or similar.
+
 1.  Function: Agreement, amendment, renewal, notice, Statement of Work, Purchase Order.  This is partly a matter of the structure of the document, but largely about its intent.
 
 1.  Author: Person who created the document, applied a modification, etc.
@@ -29,4 +33,8 @@ Classification of legal documents by their attributes, limited here to "contract
 1.  Parties:  Where the document is bound to some parties - e.g. a signed agreement or a company or administration's Terms of Use, required form or the like.
 
 1.  Maturity:  At least a rough indication of the community that supports it.  For instance, it is a draft, a proposal, required by an administration or enterprise, used among a group, a formal standard.
+
+1. Submitter: the person submitting the link.
+
+1.  Summary:  A short summary of the form.
 
