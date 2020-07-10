@@ -6,11 +6,11 @@ A comprehensive approach must include all of these and is well-served to have at
 
 The immediate goal here is a taxonomy of contract forms and their component sections.  This is a much more limited goal, but still formidible because of the vast variety of contract types and the circumstances in which they are used.  
 
-We start on a taxonomy of contracts by identifying a taxonomy of these circumstances include: format of document, legal classification (contract, permit, amendment), businesss or government domain, language of the document, applicable law, jurisdiction for disputes, among others. 
+We start on this simply, by inviting people to contribute links to them, with a few objective data points. 
 
-Classification of legal documents by their attributes, limited here to "contracts" in the legal sense:
+This is a draft list of suggested data points for each contribution.  The only mandatory items are the URL for the document and the name of the Submitter, but the rest are helpful and hopefully easy in most circumstances.  Where the language is other than English, please feel free to use that language, and let us know of obstacles:
 
-1. The Unique Name for the form:  May be composed of the name of the publisher, the document name, and a version number or date.
+1. A Unique Name for the form:  This may be composed of the name of the publisher, the document name, and a version number or date.
 
 1. Location:  A URL or similar.
 
