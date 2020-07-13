@@ -24,6 +24,8 @@ Party.cl=GLEIF.org, others
 
 Maturity.cl=Standard with regular revisions
 
+License.cl=
+
 Submitter.cl=@CommonAccord
 
 Summary.cl=A comprehensive system for "typing" legal entities - classifying them according to legal theory and consequences, which is extended into unique identifiers for particular entities.  The unique identifier can greatly reduce confusion and the typing allows humans and machines to draw many conclusions about the characteristics, powers and funtionsing of the entity.

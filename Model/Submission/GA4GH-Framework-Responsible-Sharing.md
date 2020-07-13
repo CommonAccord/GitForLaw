@@ -24,6 +24,8 @@ Party.cl=Suggested, with community of GA4GH
 
 Maturity.cl=Carefully developed by scientific community.  Don't know the extent of adoption.
 
+License.cl=
+
 Submitter.cl=@commonaccord  (Github account)
 
 Summary.cl=:  A short summary of the form.

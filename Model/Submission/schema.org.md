@@ -24,6 +24,8 @@ Party.cl=W3C, Google, Microsoft, Pinterest, Yandex
 
 Maturity.cl=Standard
 
+License.cl=
+
 Submitter.cl=@commonaccord
 
 Summary.cl=Schema provides standard taxonomies for tags that can be embedded in web pages to inform search engines and bots about the meanings of data items.  For instance &lt;time datetime="2011-04-01">04/01/11&lt;/time>.  They cover common items such as persons, places, dates, assets.
