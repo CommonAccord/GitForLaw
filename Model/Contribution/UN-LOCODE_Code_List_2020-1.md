@@ -30,3 +30,5 @@ Submitter.cl=@commonaccord
 
 Summary.cl=A rigorous taxonomy for describing "places" relelveant to international trade, with a long history and broad buy-in.  This introduction is a a wonderful description of the reasons for and steps in creating a useful taxonomy http://www.unece.org/fileadmin/DAM/cefact/recommendations/rec16/rec16_1998_ecetrd227.pdf
 
+
+
