@@ -2,7 +2,7 @@ GitForLaw-OTF-Model:
 
 
 This is an effort to outline a comprehensive naming system (taxonomy) for transacting - modelling an ecosystem of contracts.
-It is formatted as a GitHub markdown, allowing easy navigation among elements.
+It is not yet formatted as wiki markdown, which would allow easy navigation among elements.
 
 We first make a short list of the fundamental elements of a transacting environment - the ones that need to be modelled in most transaction flows.  Then we start a broad list of taxonomies that we are aware of, many of them standards from various organizations, but also less formal taxonomies. A comprehensive system will need to deal with all of them.  A converging system will likely drive standards towards dominance of those that are found to be most useful or most influential.
 
