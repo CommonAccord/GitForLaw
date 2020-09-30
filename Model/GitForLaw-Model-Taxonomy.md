@@ -10,30 +10,34 @@ We first make a short list of the fundamental elements of a transacting environm
 
 1.  Fundamental Elements
 
-    1. Persons
-        1. Humans
-        1. Entities
-            1. LEI - [./Model/Submission/ISO-LEI.md]
-        1. Roles
+    1. Person
+        1. Human
+        1. Entity
+        1. Persona
 
-    1. Places
-        1. Geographic Latitude and Longitude
-        1. Political - Country, Region, Locality, Postal Address, etc.
-    1. Things - things that are the subject of human transacting  (look for fit with accounting)
+    1. Place
+        1. Geographic Latitude, Longitude, Altitude
+        1. Political - Country, Region, Locality, Postal Address, Jurisdiction, etc.
+
+    1. Asset - things that are the subject of human transacting  (look for fit with accounting)
         1. Physical - SKUs, real estate, vehicles, animals, books, tissue samples ...
         1. Intangible -
             1. IP - Copyright, Patent, Trademark, 
             1. Benefits - retirement, health, ...
+            1. Certifications - diplomas, professional credentials, ...
     1. Time
-        1. Universal - GMT and offsets
+        1. Universal - GMT and offsets for geography and season
         1. Relative - before, during, after, extended, retroactive, etc.
+    
     1. Record
-        1. Legal - treaty, law, regulation, standard, rule, permit, contract, filing
+        1. Legal - treaty, law, regulation, court decision, standard, rule, permit, contract, filing
+            1. Law
         1. Transacting - description, offer, order, notice (shipping, arrival, delay, change), request, consent
-        1. CRUD - create, read, update, delete
+        1. API activity - create, read, update, delete, supporting messaging, ...
 
 
-1.  Taxonomies
+
+1.  Notions of filling in the basic taxonomy:
 
     1. Person
         1. Human - National identity systems
@@ -42,7 +46,7 @@ We first make a short list of the fundamental elements of a transacting environm
             1. Identifiers resulting from legal citation standards
     1. Place
         1. US/FR/JP/  SO 3166-1 alpha-2
-    1. Thing
+    1. Asset
     1. Time
     1. Record
         1. Business Taxonomies
@@ -51,15 +55,13 @@ We first make a short list of the fundamental elements of a transacting environm
                 1. UN Sustainability via Standards: for instance TIR system for truck transport [http://www.unece.org/tir/welcome.html]
                 1. US FASB [https://asc.fasb.org/home] with modularity, navigation, backlinks (for premium users)
             1. Customs clearances - World Customs Organization [http://www.wcoomd.org/DataModel]
-            1. World Intellectual Propert Organization [https://www.wipo.int/portal/en/index.html]
+            1. World Intellectual Property Organization [https://www.wipo.int/portal/en/index.html]
         1. Akoma Ntoso
         1. Legal citation systems
         1. Databases
-        
- 
-1. Precedents
+        1. Precedents
 
-1. Technologies
+1. Tools
     1. APIs
         1. User-Managed-Access
     1. Payments
@@ -67,7 +69,7 @@ We first make a short list of the fundamental elements of a transacting environm
         1. Tech -  Interledger (W3C), Stripe, Venmo, Zelle, blockchains
         1. Banks and Interbank.  [https://www.ecb.europa.eu]
     1. Management - Workflow
-        1. Contract Management software  [http://software.iaccm.com]
+        1. Contract Management software  [http://software.worldcc.com]
         1. 
 
 1. Efforts
