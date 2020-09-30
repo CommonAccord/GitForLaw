@@ -13,6 +13,7 @@ We first make a short list of the fundamental elements of a transacting environm
     1. Persons
         1. Humans
         1. Entities
+            1. LEI - [/Model/Submission/ISO-LEI.md]
         1. Roles
 
     1. Places
