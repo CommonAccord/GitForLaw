@@ -1,5 +1,7 @@
 Taxonomy for forms of legal documents:
 
+See also [https://github.com/CommonAccord/GitForLaw/tree/master/Model/Submission]
+
 The goal is to make a comprehensive taxonomy for forms of legal documents.  Legal documents are a subset of transacting documents.  Transaction documents include all records and log entries used in transacting, as well as more formal documents. Legal documents include treaties, statutes, regulations, directives, guidance and other formal documents issued by governments; court filings, proceedings and judgments; and contracts, permits, notices, statements of work, payments, amendments, renewals, consents and the like.
 
 A comprehensive approach must include all of these and is well-served to have at least a rough taxonomy for them. 
