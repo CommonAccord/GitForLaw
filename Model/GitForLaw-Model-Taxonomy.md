@@ -44,6 +44,7 @@ We first make a short list of the fundamental elements of a transacting environm
 
     1. Person
         1. Human - National identity systems
+            1.  eID in the EU - [https://ec.europa.eu/cefdigital/wiki/display/EIDCOMMUNITY/Cooperation+Network+Resources]
         1. Entity - 
             1. ISO Legal Identifiers  (does this include government agencies, courts, etc.)
             1. Identifiers resulting from legal citation standards
