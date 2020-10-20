@@ -6,7 +6,7 @@ It is not yet formatted as wiki markdown, which would allow easy navigation amon
 
 It is useful to first put this in context.  The ontology is treated as an approximation; it is intended to be extended, iterated, refactored.  We anticipate that this will happen in a number of ways:
 
-1. By New Data - aka "experience" with the solutions.  Parties are free to tweak Paradigms by overriding.  This informally extends the ontology.  Data methods can identity these variations and propose them back to participants and maintainers.  The solution grows broader and deeper.  Patterns may show the way to better ontologies leading maintainers to refactor the solutions.
+1. By New Data - aka "experience" with the solutions.  Parties are free to tweak Paradigms by overriding.  This informally extends the ontology.  Data methods can identity these variations and propose them back to participants and maintainers.  The solution grows broader and deeper.  Patterns may show the way to better, deeper ontologies, sometimes leading maintainers to refactor the ontologies.
 
 1. By Reference to other Ontologies.  There are many existing ontologies, some of which have substantial traction.  For instance the ISO-LEI for legal entities (a subclass of "Persons").  This is a multilayered semi-structured effort, for instance schema.org covers all categories.
 
