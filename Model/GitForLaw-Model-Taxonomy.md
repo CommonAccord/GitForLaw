@@ -4,6 +4,16 @@ GitForLaw-OTF-Model:
 This is an effort to outline a comprehensive naming system (taxonomy) for transacting - modelling an ecosystem of contracts.
 It is not yet formatted as wiki markdown, which would allow easy navigation among elements.
 
+It is useful to first put this in context.  The ontology is treated as an approximation; it is intended to be extended, iterated, refactored.  We anticipate that this will happen in a number of ways:
+
+1. By New Data - aka "experience" with the solutions.  Parties are free to tweak Paradigms by overriding.  This informally extends the ontology.  Data methods can identity these variations and propose them back to participants and maintainers.  The solution grows broader and deeper.  Patterns may show the way to better ontologies leading maintainers to refactor the solutions.
+
+1. By Reference to other Ontologies.  There are many existing ontologies, some of which have substantial traction.  For instance the ISO-LEI for legal entities (a subclass of "Persons").  This is a multilayered semi-structured effort, for instance schema.org covers all categories.
+
+1. By historical Data - Machine learning analytics on existing contracts and activity provides ontologies that emerge from the data. These are important for guiding a future-oriented ontology as well as for understanding existing arrangements. 
+
+1. By Pull-Request - Others are likely to have more knowledge about ontologies.  Please make suggestions.
+
 ## See also 
 ### [https://github.com/CommonAccord/GitForLaw/blob/master/Model/ContractTypes-Taxonomy.md]
 
@@ -32,9 +42,8 @@ We first make a short list of the fundamental elements of a transacting environm
         1. Universal - GMT and offsets for geography and season
         1. Relative - before, during, after, extended, retroactive, etc.
     
-    1. Record
+    1. Paradigm - a type of connection among the elements above.  These can be expressed in words (Prose), as algorithms (Code), and perhaps as structure (Objects) (not sure how to classify the significance of classification of objects).
         1. Legal - treaty, law, regulation, court decision, standard, rule, permit, contract, filing
-            1. Law
         1. Transacting - description, offer, order, notice (shipping, arrival, delay, change), request, consent
         1. API activity - create, read, update, delete, supporting messaging, ...
 
@@ -52,7 +61,7 @@ We first make a short list of the fundamental elements of a transacting environm
         1. US/FR/JP/  SO 3166-1 alpha-2
     1. Asset
     1. Time
-    1. Record
+    1. Paradigm
         1. Business Taxonomies
             1. Accounting, balance sheets, etc.
                 1. XBRL [http://XBRL.org]
